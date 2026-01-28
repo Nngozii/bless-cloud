@@ -2,7 +2,7 @@
 An easy cloud hosting website
 https://user-images.githubusercontent.com/82976159/189701410-4f27ee36-6b50-4e6f-a3d3-6f3f5656cee8.png
 
-##About
+## About
 This is a project built following Mosh Hamedani HTML CSS course
 
 Visit the site here -> https://blesscloud.netlify.app/
