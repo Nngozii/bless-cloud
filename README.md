@@ -1,6 +1,5 @@
 # BlessCloud
 An easy cloud hosting website
-![alt text](path/to/image.png)
 
 
 ## About
